@@ -31,6 +31,9 @@ Probably. If it is a paid theme or plugin, the author will have to provide a cop
 
 It's relatively stable, but is still in beta. Be sure to make a proper database backup before converting.
 
+== Screenshots ==
+1. The SEO Data Transporter UI, including the dropdown with all the supported platforms 
+
 == Changelog ==
 
 = 0.9 =
