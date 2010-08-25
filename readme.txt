@@ -14,6 +14,20 @@ This plugin allows you to transfer your inputs SEO data from one theme/plugin to
 
 Just choose what platform your moving away from, and what platform you want to move to. Click "analyze" to see what records and elements are compatible, and click "convert" to make the conversion.
 
+**Supported Themes**
+* Builder
+* Frugal
+* Genesis
+* Headway
+* Hybrid
+* Thesis
+* WooFramework
+
+**Supported Plugins**
+* All in One SEO
+* Headspace2
+* Platinum SEO
+
 == Installation ==
 
 1. Upload the entire `seo-data-transporter` folder to the `/wp-content/plugins/` directory
