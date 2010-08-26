@@ -15,6 +15,7 @@ This plugin allows you to transfer your inputs SEO data from one theme/plugin to
 Just choose what platform your moving away from, and what platform you want to move to. Click "analyze" to see what records and elements are compatible, and click "convert" to make the conversion.
 
 **Supported Themes**
+
 * Builder
 * Frugal
 * Genesis
@@ -24,6 +25,7 @@ Just choose what platform your moving away from, and what platform you want to m
 * WooFramework
 
 **Supported Plugins**
+
 * All in One SEO
 * Headspace2
 * Platinum SEO
@@ -56,6 +58,6 @@ It's relatively stable, but is still in beta. Be sure to make a proper database 
 = 0.9.1 =
 * minor fixes
 
-= 0.9.2
+= 0.9.2 =
 * split the platform array into themes and plugins.
 * added `<optgroup></optgroup>` wrappers in the `<select>` dropdowns
