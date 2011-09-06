@@ -78,4 +78,4 @@ It's relatively stable. This plugin has been in the repository since August, 201
 * Added support for the Catalyst theme, and the SEO Ultimate plugin
 
 = 0.9.6 =
-* Added support for Greg's High Performance SEO, Meta SEO Pack, and Yoast's meta keywords. Also, some sanitization and notice removals.
+* Added support for Greg's High Performance SEO, Meta SEO Pack, and Yoast's meta keywords. Also, added some sanitization and addressed some notices.
