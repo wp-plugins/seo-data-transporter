@@ -28,7 +28,9 @@ Just choose what platform your moving away from, and what platform you want to m
 **Supported Plugins**
 
 * All in One SEO
+* Greg's High Performance SEO
 * Headspace2
+* Meta SEO Pack
 * Platinum SEO
 * SEO Ultimate
 * WordPress SEO
